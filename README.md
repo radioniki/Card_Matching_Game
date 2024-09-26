@@ -2,6 +2,9 @@
 
 Welcome to the **Card Matching Game**, a command-line card-matching game built using Python. This game allows you to play with multiple players or against a computer (bot). It has various levels of difficulty and comes with both a simple and advanced game mode.
 
+## Project Background
+This project was developed as part of a university exercise to practice Python programming, game logic, and command-line interface development.
+
 ## Features
 - **Multiple Difficulty Levels**: Choose from Easy, Medium, or Hard difficulty settings, each adjusting the complexity of the game.
 - **Play with Friends or Against a Bot**: You can either play against another player or challenge a computer bot in the advanced mode.
